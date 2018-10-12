@@ -1,4 +1,4 @@
-package code.luqh.zk.lock;
+package code.luqh.zk.lock.curator;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.locks.InterProcessMutex;

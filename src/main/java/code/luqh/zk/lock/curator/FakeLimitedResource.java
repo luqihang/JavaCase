@@ -1,4 +1,4 @@
-package code.luqh.zk.lock;
+package code.luqh.zk.lock.curator;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

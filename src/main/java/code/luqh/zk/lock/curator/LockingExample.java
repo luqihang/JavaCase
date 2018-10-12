@@ -1,9 +1,8 @@
-package code.luqh.zk.lock;
+package code.luqh.zk.lock.curator;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.ExponentialBackoffRetry;
-import org.apache.curator.test.TestingServer;
 import org.apache.curator.utils.CloseableUtils;
 
 import java.util.concurrent.Callable;
